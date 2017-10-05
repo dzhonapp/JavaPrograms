@@ -10,7 +10,7 @@ import dsaj.primer.CreditCard;
 import java.io.PrintStream;
 
 import java.util.Scanner;
-
+import java.*;
 
 
 public class Main {
