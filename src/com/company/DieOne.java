@@ -28,7 +28,7 @@ public class DieOne implements Comparable<DieOne>{
 
     @Override
     public String toString(){
-        return "DieOne: " + currentValue;
+        return ""+currentValue;
     }
 
     @Override

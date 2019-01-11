@@ -219,8 +219,8 @@ public class File2 {
         Main.foo();
    }
 
-    //STEP 9. Add a loop to main in File2;
-//public static void main(){
+    //STEP 9. Add a loop to Main in File2;
+//public static void Main(){
 
   //  for (int i=0; i<15; i++) {
 

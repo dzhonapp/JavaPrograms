@@ -1,0 +1,49 @@
+You fly to the moon and have an amazing adventure. %nApparently, the moon IS made of green cheese and former missions%nwere trying to hog it all for themselves.%nYou open a business selling moon cheese and make %nmillions of dollars. %n%nYou win!!!
+null
+null
+end
+Such a bad move! You miss your launch window for flying to the moon.%nOne night, while your rocket is sitting on the lauch pad behind Stipes%nHall, the rocket begins leaking hydrazine. Unfortunately, most%nof your crew is killed by the toxic chemical. Please use more caution%nin the future!%n%nGame over!
+null
+null
+end
+You decide to recycle the rocket you found in Glenwood Park. %nThis seems to be a great idea, not only have you%nsaved lots of time, but you have also saved the world through recycling!%nDo you want to fly to the moon now?
+yes
+no
+mid
+You attempt to build your own rocket using all new materials. %nUnfortunately, everyone else tries to do this at the same time%nand supplies are too limited for anyone%nto actually build a rocket.%nGame over.
+null
+null
+end
+A red rocket it is! %nYou and your team begin building a red rocket. %nOne day, you are driving through Glenwood Park and discover a red rocket that no one appears to be using.%nYou could totally use this as your rocket to the moon!%nOr, I guess you could just make a new one instead.
+recycle
+make
+mid
+Green is a rocket color for losers. %nGame over.
+null
+null
+end
+You have chosen to build a rocket. Would you like to build %na red rocket or a green one?
+red
+green
+mid
+Apparently you are a quitter. That is very sad. %n%nGame over.
+null
+null
+end
+You and your staff keep trying to develop wormhole technology. %nAfter twenty years and hundreds of thousands of dollars%nyou have still not reached the moon.%nBut hey, you got to spend hundreds of thousands of dollars, so%nit's not all bad!%n%nGave over.
+null
+null
+end
+Sorry, but that is just a fantasy at this point. %nI'm not sure you'll ever get to the moon that way. You could %nalways stop trying...
+stop
+go on
+mid
+You begin to look for people to recruit for your mission. %nYou are hoping to hire a rocket scientist or another scientist who %nstudies wormholes. If you hire the first, you'll try to build a rocket to %nget to the moon. Otherwise you'll hope that wormhole %ntechnology will get you there. %nWhich option to do you choose?
+rocket
+wormhole
+mid
+Empty
+You have been picked to lead an expedition to the moon. %nThere are several different that this might be accomplished,%nso you'll have to use your cunning and wits to try to get there.
+continue
+null
+mid

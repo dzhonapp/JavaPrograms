@@ -1,0 +1,46 @@
+At the village. You have died.
+null
+null
+end
+At a swamp. You have died.
+null
+null
+end
+Some other path.
+Village
+Swim
+mid
+Empty
+At a path.
+Left
+null
+mid
+Winner winner chicken dinner.
+null
+null
+end
+You starve. You have died.
+null
+null
+end
+Smells good
+Eat
+Starve
+mid
+Empty
+Head chopped off. You have died.
+null
+null
+end
+Stick head in guillotine?
+null
+Yes
+mid
+Get on a plane to a country.
+Germany
+France
+mid
+Play this silly game.
+Left
+Right
+mid

@@ -5,8 +5,10 @@ import dsaj.design.FibonacciProgression;
 import dsaj.design.GeometricProgression;
 import dsaj.design.Progression;
 
+
 import dsaj.primer.CreditCard;
 
+import javax.xml.bind.SchemaOutputResolver;
 import java.io.PrintStream;
 
 import java.util.Scanner;
@@ -14,13 +16,62 @@ import java.util.Scanner;
 
 
 public class Main {
+
+    public static void main (String[] args){
+      /* // Creating the Nodes from Generic data types;
+
+        Node<Integer> n1 = new Node<Integer>(9);
+        Node<Integer> n2 = new Node<Integer>(8);
+        Node<Integer> n3 = new Node<Integer>(14);
+        Node<Integer> n4 = new Node<Integer>(275);
+        Node<Integer> n5 = new Node<Integer>(81);
+        Node<Integer> n6 = new Node<Integer>(43);
+        Node<Integer> n7 = new Node<Integer>(3);
+
+        // Setting the next link
+        n1.setNext(n2);
+        n2.setNext(n3);
+        n3.setNext(n4);
+        n4.setNext(n5);
+        n5.setNext(n6);
+        n6.setNext(n7);
+
+        // Creating String Nodes from Generic data types;
+
+        Node<String> s1 = new Node<String>("Bug");
+        Node<String> s2 = new Node<String>("Bag");
+        Node<String> s3 = new Node<String>("Tag");
+        Node<String> s4 = new Node<String>("Tug");
+        Node<String> s5 = new Node<String>("Mat");
+        Node<String> s6 = new Node<String>("Cat");
+        Node<String> s7 = new Node<String>("That");
+
+        s1.setNext(s2);
+        s2.setNext(s3);
+        s3.setNext(s4);
+        s4.setNext(s5);
+        s5.setNext(s6);
+        s6.setNext(s7);
+
+        System.out.println(s1);
+        System.out.println(n1);
+
+
+*/
+
+
+
+
+    }
+}
+
    /*
    Lab : Practice with polymorphism, using Progression Have you extracted the source code?
    Do you understand Classpath/Import? (if not learn it)
    Progression p = new Arithmetic Progression();
 
-    */
-    public static void main(String[] args) {
+
+    public static void Main(String[] args) {
         Progression p = new ArithmeticProgression(3, 5);
         System.out.println("Arithmetic Progressions! ");
         p.printProgression(8);
@@ -58,7 +109,7 @@ public class Main {
         Progression e = new FibonacciProgression(0, 1);
         e.printProgression(50);
 
-    } // end main
+    } // end Main
 
 
     } // Class End
@@ -78,7 +129,7 @@ public class Main {
     *  Description of programs, the file contains indexOf, swaping, Bubble
     *  sorting algorithms in acsending and descending orders, printing and copying arrays!
 
-    public static void main(String[] args) {
+    public static void Main(String[] args) {
 
 PrintStream print = new PrintStream(System.out);
 
@@ -412,14 +463,14 @@ String a = new String();
         // the function and the statements in it, as it finishes executing that function it will start
         // from here to execute the rest of code.
 
-        // STEP 5 Add a loop to main:
+        // STEP 5 Add a loop to Main:
         for (int i =0; i<20; i++) { // Loop goes from 0, to 19(included) and execute whatever in it 20 times.
 
             foo();
         }
 
-//STEP 9. Add Loop to main in FIle 2
-     File2.main(); // Here we go to File2 call the function main() and main runs 15 time the function bar() which prints something each time it called!.
+//STEP 9. Add Loop to Main in FIle 2
+     File2.Main(); // Here we go to File2 call the function Main() and Main runs 15 time the function bar() which prints something each time it called!.
 
 
 

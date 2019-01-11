@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Sqlite (Xerial) - FirstProject" uuid="ea34d268-3887-41ba-ab6c-a5e891ad8f9b">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/src/../../FirstProject</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Oracle - @oracle1.wiu.edu" uuid="1fea79f2-860c-4020-b1e6-417f6fc255b8">
+      <driver-ref>oracle</driver-ref>
+      <configured-by-url>true</configured-by-url>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//oracle1.wiu.edu:1521/toolman.wiu.edu</jdbc-url>
+    </data-source>
+  </component>
+</project>
