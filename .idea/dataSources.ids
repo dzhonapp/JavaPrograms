@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="Sqlite (Xerial) - FirstProject" uuid="ea34d268-3887-41ba-ab6c-a5e891ad8f9b">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="Oracle - @oracle1.wiu.edu" uuid="1fea79f2-860c-4020-b1e6-417f6fc255b8">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
